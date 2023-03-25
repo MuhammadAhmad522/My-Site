@@ -7,9 +7,10 @@ body {
 
 
 h1 {
+    font-size: 90px;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: 'Shantell Sans', cursive;
+    font-family: 'Sacramento', cursive;
 
 }
 
@@ -43,4 +44,14 @@ h3 {
     
 
 
+}
+
+
+#dp {
+    width: 250px;
+    margin-top: 5%;
+}
+
+.icons {
+    width: 250px;
 }
