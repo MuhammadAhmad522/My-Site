@@ -106,6 +106,7 @@ a:hover {
 
     width: 80%;
     margin: 10px auto 15px auto;
+    line-height: 2;
 }
 .icons {
     width: 32%;
@@ -152,6 +153,7 @@ a:hover {
 .contact-msg {
     width: 65%;
     margin: 40px auto 60px;
+    line-height: 2;
 }
 
 .btn {
